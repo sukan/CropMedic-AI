@@ -2,7 +2,7 @@
 
 ### Empowering Farmers with AI-Driven Insights for Healthier Crops and Sustainable Agriculture
 
-![CropMedic Architecture](CropMedic_main.png)
+![CropMedic](CropMedic_main.png)
 
 ## 🚀 Challenge
 
