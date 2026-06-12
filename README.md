@@ -2,7 +2,7 @@
 
 ### Empowering Farmers with AI-Driven Insights for Healthier Crops and Sustainable Agriculture
 
-![CropMedic Architecture](CropMedic.png)
+![CropMedic Architecture](CropMedic_main.png)
 
 ## 🚀 Challenge
 
@@ -42,7 +42,7 @@ Capture / Upload Leaf Image
     Actionable Insights
 ```
 
-![CropMedic](CropMedic_main.png)
+![CropMedic](CropMedic.png)
 
 ## ✨ Key Features
 
@@ -56,7 +56,7 @@ Capture / Upload Leaf Image
 
 ## 🏗 Architecture
 
-![CropMedic Architecture](images/cropmedic-architecture.png)
+![CropMedic Architecture](CropMedic_Architecture.png)
 
 ## 🧠 Machine Learning Pipeline
 
